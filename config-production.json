@@ -1,0 +1,31 @@
+{
+  "developmentMode": false,
+  "discord": {
+    "token": "ODk1NzU0NDMxODcyNzg2NDQy.YV9KUg.J0u8uPht09lBD9Kj2xmm5_N1msY",
+    "clientId": "895754431872786442",
+    "prefix": "/"
+  },
+  "reddit": {
+    "userAgent": "RRSB",
+    "clientId": "ul-1SIpjUWtyBtMHJSxdRQ",
+    "clientSecret": "zOzRFXaMoHYRAXAkO3XhTJsJKra4yg",
+    "username": "RedditRequestDscBot",
+    "password": "Preppy_Protract_Overspend_Flattered9"
+  },
+  "cronitor": {
+    "apikey": "a65eba4bbdab4387b5e3875b7a3d5ba6"
+  },
+  "database": {
+    "host": "hf188116-001.dbaas.ovh.net",
+    "port": 35997,
+    "user": "bot",
+    "password": "pZfZRPvcWoza2R5BUTrQmnCYRyUYEk9",
+    "database": "redditrequest",
+    "connectionLimit": 10
+  },
+  "settings": {
+    "minPostAge": 1,
+    "maxPostAge": 21,
+    "channelName": "redditrequest"
+  }
+}

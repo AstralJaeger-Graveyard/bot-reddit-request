@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# .idea files and 
+/dataSources/
+/dataSources.local.xml
+/.idea/codestream.xml
+/.idea/dataSources.local.xml
+/.idea/dataSources.xml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/sqldialects.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
+# Node files
+/node_modules/
