@@ -18,3 +18,7 @@ workspace.xml
 
 # Node files
 /node_modules/
+
+# config files
+config.json
+config-*.json
