@@ -7,14 +7,14 @@
 # .idea files and 
 /dataSources/
 /dataSources.local.xml
-/.idea/codestream.xml
-/.idea/dataSources.local.xml
-/.idea/dataSources.xml
-/.idea/jsLibraryMappings.xml
-/.idea/modules.xml
-/.idea/sqldialects.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
+codestream.xml
+dataSources.local.xml
+dataSources.xml
+jsLibraryMappings.xml
+modules.xml
+sqldialects.xml
+vcs.xml
+workspace.xml
 
 # Node files
 /node_modules/
